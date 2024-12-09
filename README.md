@@ -2,6 +2,10 @@
 Training a CNN for LEGO Bricks Recognition
 
 
+https://medium.com/rocket-science-team/training-a-cnn-for-lego-bricks-recognition-f285ffab3327
+
+
+
 # Lego Brick Classification Project
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/yourrepo/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
