@@ -1,16 +1,13 @@
-# DL_project_LEGO
-Training a CNN for LEGO Bricks Recognition
-
-
-https://medium.com/rocket-science-team/training-a-cnn-for-lego-bricks-recognition-f285ffab3327
-
-
-
 # Lego Brick Classification Project
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/yourusername/yourrepo/actions)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
 [![TensorFlow Version](https://img.shields.io/badge/TensorFlow-2.x-orange.svg)](https://www.tensorflow.org/)
+
+Training a CNN for LEGO Bricks Recognition
+
+https://medium.com/rocket-science-team/training-a-cnn-for-lego-bricks-recognition-f285ffab3327
+
 
 ![image](https://github.com/user-attachments/assets/fb93140d-6005-4dcc-a5c2-2df2ee04f9ab)
 
