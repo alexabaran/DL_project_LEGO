@@ -22,9 +22,6 @@ The full project description can be found in `PROJECT_DESCRIPTION.md`.
 - **Dariusz Balcer** - [LinkedIn](https://www.linkedin.com/in/dariuszbalcer/) | [GitHub](https://github.com/montenegro-db)
 - **Grzegorz Gomza** - [LinkedIn](https://www.linkedin.com/in/gregory-gomza/) | [GitHub](https://github.com/grzegorz-gomza/)
 
-**Team Mentor/Supervisor:**
-- **Mateusz Maj** - [LinkedIn](https://www.linkedin.com/in/mateusz-maj-data-scientist/)
-
 ---
 
 ## Project Overview
